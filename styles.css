@@ -1,0 +1,138 @@
+body {
+  text-align: center;
+  background-color: #d89cf6;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.title {
+  max-width: 60%;
+  height: auto;
+}
+
+.header {
+  background-color: #916dd5;
+}
+
+.footer {
+  max-width: 20%;
+  padding-top: 40px;
+}
+
+.container {
+  padding-top: 50px;
+}
+
+/* Button customizing */
+.bn {
+  width: 120px;
+  height: 120px;
+  border-radius: 25px;
+  background-color: #f0e3ff;
+  cursor: pointer;
+  box-shadow: 4px 4px #916dd5;
+  margin: 20px;
+}
+
+.bn:hover {
+  opacity: 0.9;
+}
+
+.bn:active {
+  transform: translateY(1px);
+  transform: translateX(1px);
+  box-shadow: 2px 2px #3e206d;
+  transition-duration: 0.05s;
+}
+
+/* Button images */
+.happy {
+  background-image: url('images/hap1.png');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.happy:active {
+  background-image: url("images/hap2.png");
+}
+
+.sad {
+  background-image: url('images/sad1.png');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.sad:active {
+  background-image: url("images/sad2.png")
+}
+
+.ooh {
+  background-image: url('images/ooh1.png');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ooh:active {
+  background-image: url("images/ooh2.png")
+}
+
+.sohot {
+  background-image: url('images/sohot1.png');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.sohot:active {
+  background-image: url("images/sohot2.png")
+}
+
+.yes {
+  background-image: url('images/yes1.png');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.yes:active {
+  background-image: url("images/yes2.png")
+}
+
+.hey {
+  background-image: url("images/hi1.png");
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hey:active {
+  background-image: url("images/hi2.png")
+}
+
+.bye {
+  background-image: url('images/bye1.png');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bye:active {
+  background-image: url("images/bye22.png")
+}
+
+.omg {
+  background-image: url('images/omg1.png');
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.omg:active {
+  background-image: url("images/omg2.png")
+}
