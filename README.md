@@ -1,3 +1,3 @@
 # Queen-SoundBoard
 
-https://el-lobo-cimarron.github.io/Queen-SoundBoard/
+https://maroungrey.github.io/Queen-SoundBoard/
